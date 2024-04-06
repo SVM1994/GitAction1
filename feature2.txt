@@ -1,1 +1,2 @@
-feature2
+feature2 part 1
+feature2 part 2
